@@ -1,0 +1,10 @@
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.frmEmployeeDatabase.resources
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\Ranie Gobres\Desktop\New folder\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
